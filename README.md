@@ -1,4 +1,4 @@
-# generate_anchors
+# generate_anchors  （分析不易，欢迎fork）
 The generation method of anchor in Faster RCNN
 
 anchor的生成主要是采用了generate_anchors方法：
