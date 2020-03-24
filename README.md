@@ -621,7 +621,7 @@ tensor([[[ -84.,  -40.,   99.,   55.],
 
 测试图像为：
 
-![lebron](/Users/qishi/faster-rcnn.pytorch/lebron.jpg)
+![lebron](https://github.com/XuBaozhao/generate_anchors/blob/master/output1.png)
 
 图像大小为：(792, 1024, 3)
 
@@ -675,6 +675,6 @@ _feat_stride = 400
 
 看一下结果：
 
-![](/Users/qishi/Library/Application Support/typora-user-images/image-20200324183452766.png)
+![](https://github.com/XuBaozhao/generate_anchors/blob/master/output2.png)
 
 这样就能清晰的看到9个anchor了
