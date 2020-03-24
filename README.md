@@ -147,7 +147,7 @@ hs = np.round(ws * ratios)
 
 通过以上过程实现了面积为基本面积，长宽比为ratio：
 
-<img src="/Users/qishi/Library/Application Support/typora-user-images/image-20200324162457693.png" alt="image-20200324162457693" style="zoom:50%;" />
+<img src="https://github.com/XuBaozhao/generate_anchors/blob/master/anchor_size.png" />
 
 
 
