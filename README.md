@@ -621,7 +621,7 @@ tensor([[[ -84.,  -40.,   99.,   55.],
 
 测试图像为：
 
-![lebron](https://github.com/XuBaozhao/generate_anchors/blob/master/output1.png)
+![lebron](https://github.com/XuBaozhao/generate_anchors/blob/master/lebron.jpg)
 
 图像大小为：(792, 1024, 3)
 
@@ -663,7 +663,7 @@ _feat_stride = 100
 
 运行观察一下图像：
 
-![2](/Users/qishi/faster-rcnn.pytorch/2.jpg)
+![2](https://github.com/XuBaozhao/generate_anchors/blob/master/output1.png)
 
 差不多全覆盖了，但是看不出框的大小
 
